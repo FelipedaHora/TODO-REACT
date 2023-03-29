@@ -1,0 +1,5 @@
+ul.todo-list li {
+  display: flex;
+  border-top: 1px solid #dfe6e9;
+  border-bottom: 1px solid #dfe6e9;
+}
